@@ -1,0 +1,13 @@
+header logo heading color: #5CE1E6 , #fff
+
+ul li a color: #fff(70%), hover: #fff(100)
+
+Discount div background color: #393939, icon color: #00F6FF
+
+banner robot image background-color: #BCA5FF ==> it is a linear gradient color.
+
+Get started btn color: (radial-gradient) #DEF9FA , border-radius-color: #DEF9FA 
+
+radial-gradient-color: #DEF9FA
+
+Font-family: Poppins
